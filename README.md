@@ -4,16 +4,15 @@ Este proyecto de **Trabajo de Fin de Grado (TFG)** se centra en el **análisis d
 
 ## Descripción del Proyecto
 
-El objetivo de este proyecto es analizar los contenidos de archivos RSS y extraer patrones significativos de las noticias o artículos. Un feed RSS permite obtener actualizaciones frecuentes sobre noticias, artículos y otros contenidos publicados en sitios web.
-
+El objetivo de este proyecto es analizar los contenidos de archivos RSS y extraer las etiquetas title y description, para analizar el significado de ciertas palabras o expresiones.
 
 ## Pasos Realizados hasta el Momento
 
 Hasta ahora, se han realizado los siguientes pasos:
 
 1. **Exploración de Feeds RSS**: Comprensión del formato y estructura de los archivos RSS.
-2. **Extracción de información de RSS**: Uso de Python para leer y extraer **títulos** y **descripciones** de los artículos de diversos feeds RSS.
-3. **Análisis de Patrones**: Identificación de patrones y temas comunes en los artículos procesados.
+2. **Recopilación de URLs**: Se han recopilado las URLs de 6 RSS de los periódicos mas importantes de España. 
+3. **Extracción de información de RSS**: Uso de Python para leer y extraer **títulos** y **descripciones** de los artículos de diversos feeds RSS.
 4. **Documentación**: Elaboración de documentación básica sobre el proyecto.
 
 ## Tecnologías y Herramientas Utilizadas
