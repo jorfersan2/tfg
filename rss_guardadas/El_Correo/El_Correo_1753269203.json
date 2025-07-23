@@ -1,0 +1,406 @@
+{
+    "titulo_general": "RSS de noticias de portada",
+    "fecha_actualizacion": "Sin fecha de actualización",
+    "entradas": [
+        {
+            "titulo": "El PNV cree que se está consolidando un «mayoría negativa» contra el Gobierno como ocurrió en Weimar",
+            "descripcion": "Aitor Esteban asume que la legislatura tiene un «pronóstico incierto» tras el 'caso Cerdán' y el pleno de ayer en el que cayó el decreto antiapagones y advierte de que sin Presupuestos la continuidad será «muy difícil» continuar"
+        },
+        {
+            "titulo": "El importante aviso de la Diputación de Bizkaia a las personas que llevan al perro al monte",
+            "descripcion": "La Ertzaintza mantiene dispositivos los fines de semana para informar sobre la prohibición de llevar perros sueltos en los espacios protegidos"
+        },
+        {
+            "titulo": "¿Se ha vuelto Zelenski un corrupto?",
+            "descripcion": "Miles de ucranianos marchan por primera vez contra el presidente en tiempos de guerra tras sus iniciativas para controlar las dos agencias anticorrupción del país, que además investigan a personas de su entorno"
+        },
+        {
+            "titulo": "Herido tras salirse su coche de la calzada y chocar contra un árbol en Barrika",
+            "descripcion": "El accidente ocurrió en la BL-3114, sentido Plentzia, en las inmediaciones del campo de fútbol"
+        },
+        {
+            "titulo": "Así fue el ataque a la Ertzaintza en Azpeitia: agentes por el suelo y robo de esposas y walkies",
+            "descripcion": "El consejero de Seguridad, Bingen Zupiria, revela que 40 jóvenes accedieron con violencia a la comisaría de la Policía Local, que tuvo que pedir ayuda urgente ante la gravedad de la situación"
+        },
+        {
+            "titulo": "Gervasio Deferr rompe su silencio tras las acusaciones anónimas de una mujer: «Yo no soy un violador»",
+            "descripcion": "El bicampeón olímpico de Gimnasia Artística acude a la televisión para defender su inocencia tras siete meses de encierro"
+        },
+        {
+            "titulo": "Iberdrola anuncia una ampliación de capital de 5.000 millones para inversiones en EE UU y Reino Unido",
+            "descripcion": "Tras elevar el beneficio un 20% en el primer semestre, anuncia un plan sin precedentes para destinar 55.000 millones a las redes en esos países, mientras la CNMC en España limita su retribución"
+        },
+        {
+            "titulo": "Cae uno de los delincuentes 'más buscados' tras cinco años oculto en un cobertizo",
+            "descripcion": "Álvaro Pasquín, reclamado por abuso sexual, fue capturado en Madrid diez días antes de que prescribiera su delito"
+        },
+        {
+            "titulo": "Francesco Arcuri: «Encontré a mi hijo destrozado y temo que le laven más el cerebro»",
+            "descripcion": "La expareja de Juana Rivas lamenta las injerencias del Gobierno español y considera que la instrumentalización de sus hijos es también una forma de violencia"
+        },
+        {
+            "titulo": "La tasa turística se aplicará en todos los municipios vascos y se regulará por normas forales",
+            "descripcion": "Los ayuntamientos, que recibirán la recaudación íntegra del tributo, podrán establecer en algunos casos recargos o bonificaciones de hasta el 100%"
+        },
+        {
+            "titulo": "El Supremo obliga a los bancos a responsabilizarse de los robos por 'phishing'",
+            "descripcion": "La entidad sólo quedará eximida de abonar las cantidades estafadas si logra demostrar que hubo alguna negligencia por parte de la víctima"
+        },
+        {
+            "titulo": "El Athletic se atasca ante el Alavés",
+            "descripcion": "Cae por la mínima ante el Alavés en Laguardia tras una primera parte donde sufre en defensa y una segunda donde evidencia poca claridad en ataque"
+        },
+        {
+            "titulo": "Queda trabajo por delante",
+            "descripcion": "Al Athletic le quedan minutos y kilómetros para ajustar las piezas porque el plan que tiene redactado Valverde está más que demostrado que funciona"
+        },
+        {
+            "titulo": "Los aranceles de Trump al Tour",
+            "descripcion": "En 1989, el ahora presidente de Estados Unidos organizó una carrera que pretendía competir con la francesa"
+        },
+        {
+            "titulo": "Las orcas atacan por primera vez dos veleros en las costas vascas y crean momentos de pánico",
+            "descripcion": "La tripulación de un barco tuvo que ser rescatada frente a Deba y un segundo yate alcanzado llegó a Getxo por sus propios medios"
+        },
+        {
+            "titulo": "El famoso asador vasco que ha visitado el jurado de 'Masterchef'",
+            "descripcion": "Los dos miembros del famoso jurado de 'MasterChef' han acudido junto a Martín Berasategui al emblemático restaurante del monte Igeldo"
+        },
+        {
+            "titulo": "Dominion gana 5 millones en el primer semestre, un 70% menos, tras las desinversiones en República Dominicana",
+            "descripcion": "Excluyendo este ajuste, el beneficio neto habría sido de 19 millones, un 40% más que en el mismo periodo de 2024"
+        },
+        {
+            "titulo": "Naturgy registra resultados récord por el alza del gas y gana 1.147 millones",
+            "descripcion": "La energética obtiene un 10% más en un primer semestre marcado por el apagón y mejora la retribución al accionista gracias a la autoopa"
+        },
+        {
+            "titulo": "El Athletic hace oficial el fichaje de Jesús Areso con un contrato hasta 2031",
+            "descripcion": "Ibaigane se hace con los servicios del lateral de Cascante tras elevar su oferta a Osasuna"
+        },
+        {
+            "titulo": "Jessica Bueno regresará a 'Supervivientes' en su edición All Stars",
+            "descripcion": "La modelo participará en la nueva temporada del exitoso reality de Telecinco que arrancará en otoño"
+        },
+        {
+            "titulo": "Preocupa el estado de salud de Amador Mohedano, ingresado en el Hospital de Jerez",
+            "descripcion": "El hermano de Rocío Jurado vuelve a recaer de sus problemas de salud"
+        },
+        {
+            "titulo": "Djaló ya está en Catar para cerrar su cesión con el Al Gharafa",
+            "descripcion": "El extremo rojiblanco busca minutos en el equipo catarí, donde volvería a estar a las órdenes del que fuera su entrenador en el Sporting de Braga"
+        },
+        {
+            "titulo": "Más de cien organizaciones humanitarias internacionales denuncian la «hambruna masiva» en Gaza",
+            "descripcion": "Veintiún niños han muerto desnutridos en tres días, los empleados de las ONG «se desmayan» y la agencia AFP lanza una llamada de auxilio: «Hemos perdido a periodistas en conflictos, pero nunca les hemos visto morir de hambre»"
+        },
+        {
+            "titulo": "Osakidetza encara una cruda realidad: su actividad ya no puede crecer más",
+            "descripcion": "Sus gestores ven clave pasar de un modelo cuyo éxito se mide en «más consultas y operaciones» a otro que tenga en cuenta «los resultados en la salud» del paciente"
+        },
+        {
+            "titulo": "«Donde hay orquesta hay alegría»",
+            "descripcion": "Los vecinos de un pequeño pueblo de Valladolid bailan unidos a medianoche en una de sus noches más mágicas del año"
+        },
+        {
+            "titulo": "Relevo total en la cúpula de Osakidetza para dar un vuelco a la atención sanitaria en Euskadi",
+            "descripcion": "Cinco nuevos «líderes» van a abordar la modernización de un sistema que «ya está al límite»"
+        },
+        {
+            "titulo": "El importante aviso de la Aemet para esta semana en Bizkaia: estas serán las zonas afectadas",
+            "descripcion": "Un sistema de bajas presiones dejará lluvias débiles y máximas más frescas durante varios días"
+        },
+        {
+            "titulo": "«Dicen que robaban bebés solo a mujeres vulnerables, pobres... pero no es cierto»",
+            "descripcion": "Una jornada con abogados y asociaciones aborda en Bilbao las sustracciones de menores en la dictadura y en democracia"
+        },
+        {
+            "titulo": "Areso explica su decisión de regresar al Athletic",
+            "descripcion": "El lateral diestro lanza un vídeo en redes sociales para dirigirse a la afición rojilla"
+        },
+        {
+            "titulo": "Trump anuncia un acuerdo con Japón que incluye aranceles del 15% a todos sus productos",
+            "descripcion": "El presidente de EEUU avanza también un pacto con Filipinas con gravámenes del 19%"
+        },
+        {
+            "titulo": "Así era la 'Euskalmet' de 1830",
+            "descripcion": "Descubren en Balmaseda uno de los primeros cuadernos meteorológicos de Euskadi, que refleja frecuentes nevadas hace casi 200 años"
+        },
+        {
+            "titulo": "En la UCI un niño de 9 años al ser atrapado por la hélice de una embarcación cuando se bañaba en La Manga",
+            "descripcion": "El menor ingresó en La Arrixaca junto a su tía, también herida, y con cortes de gran profundidad en las piernas"
+        },
+        {
+            "titulo": "El Supremo envía 13 años a prisión a un vecino de Vitoria por violar a su hijastra con discapacidad",
+            "descripcion": "El alto tribunal cierra cuatro años de lucha judicial de la familia de esta vitoriana. Le atacaba cuando se quedaban a solas y le advertía que «callara o me haría daño»"
+        },
+        {
+            "titulo": "Robos por encargo en Vitoria: «mil euros» en cremas de belleza de una farmacia",
+            "descripcion": "La Policía Local sigue la pista a un sospechoso que actúa a demanda. El lunes fue directo a la balda con los artículos más caros. «Sabía a lo que venía», lamentan sus víctimas"
+        },
+        {
+            "titulo": "Las jornadas no trabajadas se duplican por las huelgas en la educación pública vasca",
+            "descripcion": ""
+        },
+        {
+            "titulo": "Ateraldiak",
+            "descripcion": "Aspaldiko irakurketak gogoan, gaurkoak esku artean"
+        },
+        {
+            "titulo": "«Yo prohibiría los altavoces en plena naturaleza»",
+            "descripcion": "Este director de camping trabaja en el Valle del Jerte, y a los pies de una reserva natural que tiene la zona de baño más singular de Extremadura"
+        },
+        {
+            "titulo": "RTVE apuesta por otro programa de citas para el verano tras el fiasco de 'La Garita'",
+            "descripcion": "'¿Algo que declarar?' se estrena esta noche en 'prime time', tras el partido de la Eurocopa femenina"
+        },
+        {
+            "titulo": "Inglaterra vuelve a tirar de épica para meterse en la final de la Eurocopa",
+            "descripcion": "Las 'lionesses' neutralizan el tanto de Bonansea en la primera parte con un gol sobre la bocina de Agyemang y tumban a Italia en una prórroga dramática con una diana de Kelly tras un penalti riguroso"
+        },
+        {
+            "titulo": "Muere Ozzy Osbourne, leyenda del heavy",
+            "descripcion": "Se ha ido con 76 años, solo 17 días después del gran concierto que lo reunió con su banda, Black Sabbath"
+        },
+        {
+            "titulo": "«El futuro de nuestro colegio pende de un hilo»",
+            "descripcion": "Familias de un centro privado de Güeñes reclaman la ayuda estable de Educación para garantizar la viabilidad del proyecto educativo"
+        },
+        {
+            "titulo": "El Ejecutivo tienta a los socios con la ley que puede levantar el secreto sobre el 23-F",
+            "descripcion": "El PNV saluda que se reactive la reforma de la normativa franquista, pero avisa de que sigue «lejos» de sus ambiciones"
+        },
+        {
+            "titulo": "Un juzgado de Barcelona ordena el desahucio de la fundación de Montserrat Caballé, donde también vive su hermano",
+            "descripcion": "La empresa arrendataria ha interpuesto una demanda por el impago de 41.000 euros en alquileres y el desalojo está previsto para octubre"
+        },
+        {
+            "titulo": "Valverde: «Areso es un fichaje importante para nosotros»",
+            "descripcion": "Ensalza las cualidades del lateral derecho, considera que la cesión de Djaló es una oportunidad para él y reitera que «estamos justos de centrales»"
+        },
+        {
+            "titulo": "Disfruta de las novedades de BBK Klima este verano con toda la familia",
+            "descripcion": "La programación incluye talleres, gastronomía local, cine y propuestas como Waterlicht o Fashion Revolution, que refuerzan la apuesta de BBK por una ciudadanía comprometida con el medioambiente"
+        },
+        {
+            "titulo": "Un juez amenaza con enviar a Bolsonaro a prisión por utilizar redes sociales",
+            "descripcion": "El juez considera que el expresidente brasileño se está saltando las medidas cautelares que se le impusieron la semana pasada"
+        },
+        {
+            "titulo": "Tachan a Zelenski de autoritario por interferir en agencias anticorrupción",
+            "descripcion": "El presidente ucraniano se enfrenta al escándalo por la filtración de documentos secretos a Rusia a través de un antiguo diputado"
+        },
+        {
+            "titulo": "Trump recurre a la socia de Jeffrey Epstein, Ghislaine Maxwell, como posible coartada",
+            "descripcion": "El Departamento de Justicia la ha contactado en la cárcel para que testifique de nuevo, mientras aguarda a que el Supremo la exculpe"
+        },
+        {
+            "titulo": "¿Qué es la 'lista Epstein'?",
+            "descripcion": "Quién está en los documentos, qué se sabe y por qué su sombra vuelve a amenazar a Donald Trump"
+        },
+        {
+            "titulo": "El detalle de Beñat Prados con un aficionado al que le propinó un balonazo sin querer",
+            "descripcion": "El centrocampista no se olvidó del athleticzale que recibió el pelotazo al terminar el amistoso ante el Alavés"
+        },
+        {
+            "titulo": "Rusia y Ucrania preparan su reunión en Estambul sin esperar ningún «milagro»",
+            "descripcion": "Moscú y Kiev no se ponen aún de acuerdo qué día de esta semana volverán a la mesa de negociación para tratar de avanzar hacia la paz"
+        },
+        {
+            "titulo": "Paret-Peintre le gana el relato a Healy",
+            "descripcion": "Vingegaard vuelve a intentar distanciar a Pogacar en el Mont Ventoux, pero el líder no cede ni un metro en la mítica cima"
+        },
+        {
+            "titulo": "España luchará por el oro en el Mundial de waterpolo",
+            "descripcion": "La selección masculina se impuso por penaltis a Grecia gracias a un gol de Munárriz en el último segundo de la semifinal y se medirá el jueves a Hungría"
+        },
+        {
+            "titulo": "Detenido tras estafar 300.000 euros al menos a 7 mujeres desde Barakaldo",
+            "descripcion": "El arrestado usaba aplicaciones de citas para contactar con ellas y extorsionarlas tras lograr imágenes o vídeos de contenido sexual"
+        },
+        {
+            "titulo": "Cate Blanchett, Emma Stone o George Clooney compiten en el Festival de Venecia",
+            "descripcion": "En el Festival de Venecia participarán también Bad Bunny, Guillermo del Toro, Dwayne 'La Roca' Johnson, Amanda Seyfried y Julia Roberts que presenta off-festival el film 'After the Hunt'. Dos películas españolas se mostrarán fuera de la sección oficial."
+        },
+        {
+            "titulo": "El juzgado aplaza hasta el viernes la entrega del hijo de Juana Rivas por el bien del menor",
+            "descripcion": "El tribunal acordará un nuevo lugar para evitar «exposiciones innecesarias» tras ocho horas de revuelo mediático"
+        },
+        {
+            "titulo": "El cerebro se entrena o por qué los taxistas de Londres tienen el hipocampo más desarrollado",
+            "descripcion": "Este órgano no es una máquina rígida sino que se adapta en función del uso que se le dé"
+        },
+        {
+            "titulo": "Cómo sacar el calor del coche en dos minutos",
+            "descripcion": "Hay varias formas para ventilar el vehículo"
+        },
+        {
+            "titulo": "La reintroducción de un pesticida pone a Francia en pie de guerra",
+            "descripcion": "Más de 1,5 millones de personas exigen la abolición de la Ley Duplomb, que reduce la carga regulatoria de los agricultores"
+        },
+        {
+            "titulo": "El intimidatorio gesto de un ciclista del UAE a uno de Movistar",
+            "descripcion": "La reprimenda de un compañero de Pogacar a otro corredor no gustó nada a los aficionados"
+        },
+        {
+            "titulo": "El gran presente de España frente a la historia dominante de Alemania",
+            "descripcion": "La extraordinaria selección de Montse Tomé debe superar a su bestia negra, ocho veces campeona de Europa, para alcanzar su primera final continental"
+        },
+        {
+            "titulo": "Cerdán pide al Supremo su excarcelación por ser víctima de la «presunción de indecencia»",
+            "descripcion": "La Fiscalía, durante la vista en el Supremo, reclama que siga en prisión porque persiste el riesgo de destrucción de pruebas y todavía quedan diligencias por practicar"
+        },
+        {
+            "titulo": "PP, Junts, Podemos y BNG tumban el decreto antiapagón del Gobierno y le aguan el final de curso",
+            "descripcion": "Los posconvergentes se suman al 'no' de los morados al real decreto ley del 'apagón' y el principal partido de la oposición evita lanzarle un salvavidas para visualizar su fragilidad parlamentaria"
+        },
+        {
+            "titulo": "Una protesta propalestina impide el desembarco de 2.000 turistas israelíes en Grecia",
+            "descripcion": "El crucero modifica su ruta hacia Chipre tras una concentración en el puerto de Syros que generó tensión diplomática entre Tel Aviv y Atenas"
+        },
+        {
+            "titulo": "Bermeo lanza la teja por Izaro y Gaza",
+            "descripcion": "La villa marinera traslada por mar su popular fiesta de la Magdalena tras cumplir con el ritual de refrendar su titularidad sobre la isla"
+        },
+        {
+            "titulo": "Al 'Grand Prix' le llueven las críticas tras su último programa: «Creen que la audiencia es tonta»",
+            "descripcion": "El concurso presentado por Ramón García cabrea a sus espectadores al incumplir su adelanto horario"
+        },
+        {
+            "titulo": "Vuelve Chill Mafia… pero a las pantallas",
+            "descripcion": "La plataforma Primeran de EITB estrena una película que retrata el último concierto de la banda navarra"
+        },
+        {
+            "titulo": "Liberado el asesino de tres personas en Madrid en el intercambio de «presos políticos» auspiciado por Zapatero",
+            "descripcion": "El exmarine estadounidense de origen venezolano autor del triple crimen de Usera ha regresado libre a Estados Unidos tras el acuerdo entre Trump y Maduro de intercambio de detenidos facilitado por el expresidente español"
+        },
+        {
+            "titulo": "Interior rechaza informar a la UCO de las visitas a Cerdán en prisión",
+            "descripcion": "El juez había dejado al criterio de Instituciones Penitenciarias cumplir la petición de la Guardia Civil de ser avisada de los encuentros del exdirigente socialista en Soto del Real"
+        },
+        {
+            "titulo": "41 jóvenes intérpretes internacionales harán vibrar a Balmaseda con la música clásica",
+            "descripcion": "El V Encuentro Internacional York Bowen acogerá en la villa encartada recitales, conciertos y clases magistrales hasta el 1 de agosto"
+        },
+        {
+            "titulo": "El sector del metal alerta de un frenazo prolongado en Euskadi y teme el impacto de nuevos aranceles",
+            "descripcion": "La patronal vizcaína avisa de que el creciente absentismo y la dificultad de encontrar personal cualificado lastran la competitividad"
+        },
+        {
+            "titulo": "España regresa al Festival de Venecia con 'Estrany riu', de Jaume Claret, y con 'Calle Málaga', de Maryam Touzani",
+            "descripcion": "Tras la edición pasada en la que Pedro Almodóvar recogió el León de Oro por 'La habitación de al lado', España no logra colar a ninguna producción en la Sección Oficial, a la que aspiran Guillermo del Toro o Paolo Sorrentino"
+        },
+        {
+            "titulo": "Rescatan a dos hombres tras caer a la ría a la altura del Puente Colgante en Portugalete",
+            "descripcion": "Ertzaintza y Cruz Roja han sacado del agua a los dos varones que se encuentran bien"
+        },
+        {
+            "titulo": "Getxo apuesta por el turismo de cercanía con nuevas rutas por el mar y la naturaleza",
+            "descripcion": "El municipio financia con 87.000 euros actividades náuticas, ambientales y proyectos innovadores que destacan su biodiversidad y paisajes"
+        },
+        {
+            "titulo": "El Bilbao Basket confirma el fichaje de Aleix Font",
+            "descripcion": "El exterior catalán, formado en la cantera del Barcelona y procedente del Coruña, destaca por su trabajo defensivo y tiro de larga distancia"
+        },
+        {
+            "titulo": "Ana Obregón desvela la 'pillada' que puso fin a su relación con Alessandro Lecquio",
+            "descripcion": "Después de descubrirlo con otra mujer por una ventana, llamó a la puerta para pedir explicaciones"
+        },
+        {
+            "titulo": "Iris Tió hace historia y gana el oro como solista en el Mundial de natación artística",
+            "descripcion": "La joven nadadora catalana se impuso a la china Huyan Xu y a la bielorrusa Vasilina Khandoshka"
+        },
+        {
+            "titulo": "La Ertzaintza renueva su flota de helicópteros con la llegada de un segundo aparato",
+            "descripcion": "El lehendakari aboga por seguir invirtiendo en tecnología para que la Policía autonómica preste «un servicio integral a la sociedad»"
+        },
+        {
+            "titulo": "Pradales, sobre los ataques a policías y ertzainas: «Los violentos siempre nos tendrán enfrente»",
+            "descripcion": "El lehendakari manifiesta su «apoyo absoluto y sin medias tintas» a las fuerzas de seguridad y pone el foco «en quienes provocan desórdenes, agreden o amenazan»"
+        },
+        {
+            "titulo": "Niega que intentara asesinar a su bebé quemando su cuna y alega que solo quería «fastidiar» a su hermano",
+            "descripcion": "La acusada de prender fuego a un juguete y causar quemaduras en la mano a la pequeña de cuatro meses en la localidad valenciana de Massamagrell se enfrenta a 25 años de prisión por tentativa de asesinato"
+        },
+        {
+            "titulo": "El escaparate más surrealista de Bilbao está en una peluquería",
+            "descripcion": "El artista José Manuel Ezkerra convierte la cristalera de este negocio de la calle Henao en una escena irónica, con crítica social y guiños euskaldunes inspirados en René Magritte"
+        },
+        {
+            "titulo": "El Gobierno vasco descarta adjudicaciones a las empresas de Antxon Alonso tras analizar 600.000 contratos",
+            "descripcion": "La investigación de Lakua tampoco halla «ninguna irregularidad» en la concesión de obras y servicios a otras compañías que tuvieron relación con sociedades de la trama"
+        },
+        {
+            "titulo": "Bilbao se convierte en capital del blues durante tres días",
+            "descripcion": "Mississippi Queen & The Wet Dogs abrirán este viernes el Bilbao Blues Festival que trae en exclusiva a Jimmie Vaughan, Terrance Simien o Blackburn Brothers"
+        },
+        {
+            "titulo": "Euskadi continúa en cabeza del coste laboral y llega a los 42.434 euros por trabajador",
+            "descripcion": "Solo Madrid se encuentra por delante, mientras que la media nacional se sitúa en los 37.308 euros"
+        },
+        {
+            "titulo": "Lego ya tiene fecha de apertura en Bilbao: así será su primera tienda en Euskadi",
+            "descripcion": "Estará ubicada en Ercilla y contará con 440 metros cuadrados divididos en dos plantas"
+        },
+        {
+            "titulo": "Las ocho verbenas que animarán las noches de Aste Nagusia en la Plaza Circular",
+            "descripcion": "El público disfrutará de dos pases diarios a las 20.00 y las 23.00 horas"
+        },
+        {
+            "titulo": "Un puente siega el techo de un autobús y deja 20 heridos en Manchester",
+            "descripcion": "La Policía detiene al conductor del autocar de dos pisos, que circulaba fuera de su ruta habitual e intentó cruzar un viaducto demasiado bajo para su altura"
+        },
+        {
+            "titulo": "Una médico explica lo que pasa si bebes la cerveza directamente de la lata: «Puede parecer lo más práctico, pero...»",
+            "descripcion": "María Muñoz, especialista en el aparato digestivo, desvela por qué es mejor servir la bebida en un vaso"
+        },
+        {
+            "titulo": "Condenan a un profesor de surf de Hondarribia a 71 años de cárcel por abusar de once menores",
+            "descripcion": "La sala confirma que el monitor abusó sexualmente de alumnos de 9 a 17 años entre 2011 y 2021, cuando fue detenido y encarcelado, y le inhabilita para cualquier profesión o actividad con menores"
+        },
+        {
+            "titulo": "La Fiscalía pide cuatro años de prisión para el hermano de Ximo Puig",
+            "descripcion": "El Ministerio Público pide tres años para su socio, Juan Adell Bover, en un escrito donde el Ministerio Público reclama cárcel por falsedad y estafa contra el familiar del expresidente de la Generalitat socialista"
+        },
+        {
+            "titulo": "Qué gana BBVA con aguardar a septiembre para seguir con la opa",
+            "descripcion": "Deja al Sabadell que despliegue todas sus cartas a la espera de despejar una mejora de la oferta y una reducción del porcentaje de aceptación"
+        },
+        {
+            "titulo": "Muere una joven promesa del hockey sobre hielo tras caer al vacío desde el balcón de un hotel en Ibiza",
+            "descripcion": "Gary Kelly, escocés de 19 años, falleció este lunes por la noche a consecuencia de las lesiones de la caída"
+        },
+        {
+            "titulo": "El ISIS utiliza la IA para publicitar el asesinato de una turista bilbaína",
+            "descripcion": "Este grupo yihadista y otras organizaciones terroristas han comenzado a servirse de esta aplicación para aumentar su capacidad de reclutamiento y recaudar fondos"
+        },
+        {
+            "titulo": "Eskarmentuak",
+            "descripcion": ""
+        },
+        {
+            "titulo": "Transportes encarga otro estudio de viabilidad del tren que unirá Santander y Bilbao",
+            "descripcion": "Puente asegura que la concreción del informe de alternativas -que se presentó en 2022 y que no se ha hecho público- da un coste mayor al estimado inicialmente"
+        },
+        {
+            "titulo": "La surrealista respuesta de la campeona olímpica Lydia Valentín que sonroja al propio 'Grand Prix'",
+            "descripcion": "La leonesa hizo de madrina en el programa de Ramón García y la pifió al ser preguntada por el número de municipios en Galicia"
+        },
+        {
+            "titulo": "Una investigación alerta del descenso del PIB por efecto de las superbacterias",
+            "descripcion": "La resistencia antimicrobiana nos supondrá dos billones de dólares en 2050, no solo por sus costes sanitarios, sino por los laborales"
+        },
+        {
+            "titulo": "Uno para todos y todos para uno: el calendario familiar",
+            "descripcion": "Organizarse es parte esencial de una buena convivencia y no hay nada mejor que un calendario para enterarse de cuáles son las actividades conjuntas e individuales que tiene cada miembro. Te damos algunas ideas de cómo ponerlo en práctica."
+        },
+        {
+            "titulo": "En un bufé libre ingerimos más del doble de calorías que en casa",
+            "descripcion": "Para evitar que los desayunos, comidas o cenas en el hotel se conviertan en una especie de Disneylandia para nosotros, apunta"
+        },
+        {
+            "titulo": "«¿Sexo en el mar? Solemos acabar frustrados»",
+            "descripcion": "Sin ánimo de ser aguafiestas, es necesario desmentir algunos tópicos sexuales del verano"
+        }
+    ]
+}
