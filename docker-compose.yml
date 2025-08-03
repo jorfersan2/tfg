@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  python-container:
+    build:
+      context: ./tfg_python
+    container_name: python-container
+    volumes:
+      - ./tfg_python:/app
+    depends_on:
+      - my-mongo
+    networks:
+      - tfg-network
+    tty: true
+
+  my-mongo:
+    build:
+      context: ./tfg_mongo
+    container_name: my-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: jorfersan2
+      MONGO_INITDB_ROOT_PASSWORD: jorfersan2
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - tfg-network
+
+volumes:
+  mongo-data:
+
+networks:
+  tfg-network:
+    driver: bridge
