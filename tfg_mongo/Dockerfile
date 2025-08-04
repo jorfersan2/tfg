@@ -1,5 +1,5 @@
 # Usa la imagen oficial de MongoDB
-FROM mongo:latest
+FROM mongo:4.4.18
 
 # Crea un directorio de trabajo dentro del contenedor
 WORKDIR /workspace
