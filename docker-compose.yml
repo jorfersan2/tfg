@@ -27,6 +27,19 @@ services:
     networks:
       - tfg-network
 
+  api-container:
+    build:
+      context: ./tfg_api
+    container_name: api-container
+    ports:
+      - "5000:5000"
+    depends_on:
+      - my-mongo
+    networks:
+      - tfg-network
+    volumes:
+      - ./tfg_api:/api
+
 volumes:
   mongo-data:
 
