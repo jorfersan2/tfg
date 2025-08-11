@@ -37,8 +37,7 @@ services:
       - my-mongo
     networks:
       - tfg-network
-    volumes:
-      - ./tfg_api:/api
+    
 
 volumes:
   mongo-data:

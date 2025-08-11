@@ -14,8 +14,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 5000
 
 # Abre un bash del contenedor
-CMD ["bash"]
+#CMD ["bash"]
 
 # Para que se ejecute directamente el script al iniciar el contenedor
-#CMD ["python3", "api_flask.py"]
+CMD ["python", "api_flask.py"]
 
