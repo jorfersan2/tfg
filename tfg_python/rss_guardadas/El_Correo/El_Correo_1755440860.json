@@ -1,0 +1,29 @@
+{
+    "bozo": 1,
+    "entries": [],
+    "feed": {
+        "meta": {
+            "name": "viewport",
+            "content": "width=device-width, initial-scale=1"
+        }
+    },
+    "headers": {
+        "connection": "close",
+        "content-length": "134",
+        "content-type": "text/html; charset=UTF-8",
+        "accept-ranges": "bytes",
+        "date": "Sun, 17 Aug 2025 14:27:40 GMT",
+        "x-cache": "MISS, MISS",
+        "vary": "Accept-Encoding, User-Agent, Cookie",
+        "set-cookie": "geo={\"c\": \"ES\",\"r\": \"MA\",\"o\": \"EU\"}; max-age=86400; path=/",
+        "cache-control": "max-age=0, no-cache, no-store",
+        "strict-transport-security": "max-age=31557600",
+        "alt-svc": "h3=\":443\";ma=86400,h3-29=\":443\";ma=86400,h3-27=\":443\";ma=86400"
+    },
+    "href": "https://www.elcorreo.com/rss/2.0/portada/",
+    "status": 403,
+    "encoding": "UTF-8",
+    "bozo_exception": "<unknown>:2:0: syntax error",
+    "version": "",
+    "namespaces": {}
+}
