@@ -1,0 +1,34 @@
+NO
+SI
+NO
+SI
+SI
+SI
+NO
+SI
+SI
+NO
+NO
+NO
+SI
+SI
+NO
+NO
+NO
+NO
+SI
+SI
+NO
+SI
+SI
+NO
+SI
+NO
+NO
+SI
+SI
+NO
+
+--- RESUMEN ---
+SI: 15
+NO: 15

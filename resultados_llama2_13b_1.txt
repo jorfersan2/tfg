@@ -1,0 +1,34 @@
+SI. La palabra "tiempo" no aparece en el texto, pero la palabra "septiembre" está presente, lo que indica que se está hablando de un momento determinado del año.
+Sí
+SI
+Sí, el título del artículo menciona la palabra "tiempo" literalmente.
+SÍ. La palabra "tiempo" aparece en el título: "El milagro de Burrolandia en el incendio de Tres Cantos".
+SI
+NO
+SI. La palabra "tiempo" aparece en el título: "¿Cuál es la canción del verano 2025?".
+SI. La palabra "tiempo" aparece en el título: "No tuve tiempo de hacer nada".
+SI. La palabra "tiempo" no aparece literalmente en el título o la descripción.
+NO
+SI
+NO
+SI
+NO
+NO
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+SI
+NO. La palabra "tiempo" no aparece en el título ni en la descripción.
+SI
+SI
+SI
+NO
+
+--- RESUMEN ---
+SI: 16
+NO: 6

@@ -1,0 +1,34 @@
+SI
+NO
+NO
+NO
+NO.
+NO
+NO
+NO
+SI
+NO
+NO
+NO
+NO
+SI
+NO
+NO.
+NO
+NO
+SI
+SI
+NO
+SI
+SI
+NO.
+NO
+NO
+NO
+SI
+SI
+NO
+
+--- RESUMEN ---
+SI: 9
+NO: 18
