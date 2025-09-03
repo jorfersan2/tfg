@@ -25,7 +25,7 @@ with open(output_file, 'w', encoding='utf-8') as out_f:
         # Construir prompt
         prompt = (
             f"Responde solo con SI o NO. "
-            f"Responde SI si la palabra 'tiempo' aparece en el título o la descripción. "
+            f"Responde SI si se hace referencia a la palabra 'tiempo' en el título o la descripción. "
             f"Si no aparece, responde NO. "
             f"Título: {noticia['titulo']} "
             f"Descripción: {noticia['descripcion']}"
